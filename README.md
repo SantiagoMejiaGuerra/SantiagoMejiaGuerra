@@ -2,7 +2,8 @@
 
 ----
 
-<img src="https://www.canva.com/design/DAGV6I-RqFs/Irh0B6ztHPnixoABCeNMWg/view" width="100%">
+<img src="![Santiago Mejia](https://github.com/user-attachments/assets/80e56ebf-927f-45a4-9c19-5fd9a336cac7)
+ width="100%">
 
 
 
