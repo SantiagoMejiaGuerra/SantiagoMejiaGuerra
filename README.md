@@ -2,9 +2,7 @@
 
 ----
 
-<img src="![Santiago Mejia](https://github.com/user-attachments/assets/80e56ebf-927f-45a4-9c19-5fd9a336cac7)">
-
-
+![Santiago Mejia](https://github.com/user-attachments/assets/80e56ebf-927f-45a4-9c19-5fd9a336cac7)
 
 
 
