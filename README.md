@@ -6,10 +6,10 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🎓 Ingeniero especializado en areas de Data Analyst y Data Engineer
-- 📊 Gran manipulacioón en Power BI, SQL y Python
-- 🤖 Conocimientos basicos de Deep Learning y Machine Learning
-- 🌱 Aprendiendo el uso de Micorsoft Azure, HTML y CSS
+- 🎓 Ingeniero Biomedico especializado en areas de Data Analyst y Data Engineer.
+- 📊 Extraigo valor de los datos con Power BI, SQL y Python para optimizar procesos y mejorar resultados.
+- 🤖 Conocimientos basicos de Deep Learning y Machine Learning.
+- 🌱 Aprendiendo el uso de Micorsoft Azure, HTML y CSS.
 
 ## Tech Skills 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
