@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-purple?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy533cub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZmlsbD0iI2ZmMWY1ZiIgd砵の味=" alt="Power BI logo")
+![Power BI, SQL](https://img.shields.io/badge/Power%20BI,%20SQL-purple,blue?style=flat)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
