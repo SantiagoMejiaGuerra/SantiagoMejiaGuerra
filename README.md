@@ -1,6 +1,3 @@
-<h1 align="center"> Hi I´m Santiago Mejia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-
-
 ![Portada_de_github](https://github.com/user-attachments/assets/518a32e7-9a91-4efc-81bd-42d68a717045)
 
 
