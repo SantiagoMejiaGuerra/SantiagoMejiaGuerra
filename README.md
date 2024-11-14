@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/518a32e7-9a91-4efc-81bd-42d68a717045" alt="Portada" width=800px>
+  <img src="https://github.com/user-attachments/assets/518a32e7-9a91-4efc-81bd-42d68a717045" alt="Portada" width=900px>
 </p>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px></picture> About me
 
 - 🎓 Ingeniero Biomedico especializado en areas de Data Analyst y Data Engineer.
 - 📊 Extraigo valor de los datos con Power BI, SQL y Python para optimizar procesos y mejorar resultados.
