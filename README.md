@@ -1,4 +1,6 @@
-![Portada_de_github](https://github.com/user-attachments/assets/518a32e7-9a91-4efc-81bd-42d68a717045)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/518a32e7-9a91-4efc-81bd-42d68a717045" alt="Portada" width=800px>
+</p>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
